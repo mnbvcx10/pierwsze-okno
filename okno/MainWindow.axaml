@@ -6,6 +6,7 @@
         x:Class="okno.MainWindow"
 	WindowStartupLocation="CenterScreen"
 	CanResize="False"
+	WindowState="Maximized"
         Title="Natalia">
     TO MÓJ WŁASNY TYTÓŁ OKNA! :)
 </Window>
