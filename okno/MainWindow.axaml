@@ -7,7 +7,7 @@
 	WindowStartupLocation="CenterScreen"
 	CanResize="False"
         Title="Natalia">
-<TextBlock Text="Moje zdanie :)" FontSize="32" FontWeight="Bold" FontStyle="Italic" Foreground="#FFC0CB"/>
+<TextBlock Text="Moje zdanie :)" FontSize="32" FontWeight="Bold" FontStyle="Italic" Foreground="#FFC0CB" Background="#40E0D0"/>
 
 
 </Window>
