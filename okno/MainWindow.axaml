@@ -7,6 +7,6 @@
 	WindowStartupLocation="CenterScreen"
 	CanResize="False"
         Title="Natalia">
-<TextBlock Text="Moje zdanie :)" FontSize="32"/>
+<TextBlock Text="Moje zdanie :)" FontSize="32" FontWeight="Bold"/>
 
 </Window>
