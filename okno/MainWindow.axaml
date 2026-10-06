@@ -7,6 +7,6 @@
 	WindowStartupLocation="CenterScreen"
 	CanResize="False"
         Title="Natalia">
-    TO MÓJ WŁASNY TYTUŁ OKNA! :)
+<TextBlock Text="Moje zdanie :)" />
 
 </Window>
